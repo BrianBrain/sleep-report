@@ -1,0 +1,9 @@
+streamlit>=1.49
+google-genai>=1.0
+pandas>=2.0
+altair>=5.0
+openpyxl>=3.1
+mne>=1.6
+numpy>=1.24
+yasa>=0.7        # 選用：沒有 hypnogram 時的自動睡眠分期
+pytest>=8.0      # 選用：跑 tests/
